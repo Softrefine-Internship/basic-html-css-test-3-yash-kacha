@@ -4,17 +4,17 @@
 
 The project requires you to create a web page that matches the provided design template. The design template consists of dashboard layout. Your task is to replicate the design as accurately as possible within the given time for desktop screen only.
 
+**color palette**
+
+- #FCA424
+- #0DD39D
+- #1A1A1A
+- #CDCDCD
+- #FEFEFE
 ### Technology Stack
 
 - HTML
 - CSS
-
-### Estimated Time
-
-The estimated time to complete the given code assignment falls within the range of **8 hours** to **12 hours**.
-
-Please note that this is a rough estimation and the actual time required may vary based on individual circumstances, familiarity with the technology stack, and the complexity of the design. It is important to manage your time effectively and plan accordingly to ensure timely completion of all required features and design elements.
-
 ### Submission
 
 1. Open a terminal or command prompt.
