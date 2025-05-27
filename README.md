@@ -4,6 +4,8 @@
 
 The project requires you to create a web page that matches the provided design template. The design template consists of dashboard layout. Your task is to replicate the design as accurately as possible within the given time for desktop screen only.
 
+<!-- Starting time 17:05 -->
+
 **color palette**
 
 - #FCA424
@@ -11,10 +13,12 @@ The project requires you to create a web page that matches the provided design t
 - #1A1A1A
 - #CDCDCD
 - #FEFEFE
+
 ### Technology Stack
 
 - HTML
 - CSS
+
 ### Submission
 
 1. Open a terminal or command prompt.
